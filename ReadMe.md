@@ -39,7 +39,7 @@ We tested this connector on DNN 9.6.1 and DNN 9,8.0 RC1, but it's expected to st
     <ScriptTemplate>
         <![CDATA[     
             <!-- Google Tag Manager (noscript) --> 
-            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5SXBKKT"
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=[GTM_ID]"
             height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <!-- End Google Tag Manager (noscript) -->
         ]]>
