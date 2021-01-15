@@ -14,7 +14,7 @@ We tested this connector on DNN 9.6.1 and DNN 9,8.0 RC1, but it's expected to st
 ## Installation
 1) Download the install package from the _install folder in this branch of this repository and install in DNN as you would install any other extension.
 2) Open the file SiteAnalytics.config using a text editor or the config editor in DNN
-3) Add the following XML snippet inside the <Engines> element:
+3) Add the following XML snippet inside the &lt;Engines&gt; element:
 ```
 <AnalyticsEngine>
     <EngineType>DotNetNuke.Services.Analytics.GoogleTagManagerEngine, DNN.Connectors.GoogleTagManager</EngineType>
